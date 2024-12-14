@@ -4,7 +4,7 @@
 
 ## 🌟 Recent Side Project: PairUP
 
-![PairUP Project](https://www.canva.com/design/DAGYJsoDFB8/s7TiByAcKbkWm56fn_MuBQ/view?embed)
+<iframe loading="lazy" src="https://www.canva.com/design/DAGYJsoDFB8/s7TiByAcKbkWm56fn_MuBQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
 
 ---
 
