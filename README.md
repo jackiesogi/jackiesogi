@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Shou-Chi, Chen.
 
----
-
 ## 🌟 Recent Side Project: PairUP
 
 <a href="https://jackiesogi.com/res/pairup.html" target="_blank">View the Slides</a>
@@ -9,8 +7,6 @@
 <a href="https://jackiesogi.com/res/pairup.html" target="_blank">
   <img src="https://jackiesogi.com/img/pairup-preview.png" alt="PairUP Project Preview">
 </a>
-
----
 
 ## 📚 Latest Blog Posts
 
@@ -23,8 +19,6 @@ I love sharing my thoughts on technology and development through my blog posts o
 - [兩個免費且強大的大型語言模型 API 服務](https://medium.com/@Jackiesogi/%E5%85%A9%E5%80%8B%E5%85%8D%E8%B2%BB%E4%B8%94%E5%BC%B7%E5%A4%A7%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B-api-%E6%9C%8D%E5%8B%99-2636a6f5bdb8?source=rss-788c543aebb6------2)
 - [使用 .NET 探討軟體工程中的 Dependency Injection（DI）技巧](https://medium.com/@Jackiesogi/%E4%BD%BF%E7%94%A8-net-%E6%8E%A2%E8%A8%8E%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84-dependency-injection-di-%E6%8A%80%E5%B7%A7-dd7bcc0b5f8a?source=rss-788c543aebb6------2)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💻 Tech Stack
 
