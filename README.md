@@ -1,4 +1,5 @@
 # 👋 Hi there, I’m Shou-Chi, Chen.
+Hi! I'm Jackie, a passionate student from National Taiwan University of Science and Technology who loves exploring on Linux and low-level programming language. My goal is to become an active open source contributor in Linux kernel and C libraries.
 
 ## 🌟 Recent Side Project: PairUP
 
