@@ -4,7 +4,7 @@
 
 ## 🌟 Recent Side Project: PairUP
 
-<iframe loading="lazy" src="https://www.canva.com/design/DAGYJsoDFB8/s7TiByAcKbkWm56fn_MuBQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+<img src="https://jackiesogi.com/img/pairup-preview.png"></img>
 
 ---
 
