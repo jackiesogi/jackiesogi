@@ -4,7 +4,9 @@
 
 ## 🌟 Recent Side Project: PairUP
 
-<img src="https://jackiesogi.com/img/pairup-preview.png"></img>
+<a href="https://jackiesogi.com/res/pairup.html" target="_blank">View the Slides</a>
+
+<img src="https://jackiesogi.com/img/pairup-preview.png"><a href="https://jackiesogi.com/res/pairup.html" target="_blank"></a></img>
 
 ---
 
