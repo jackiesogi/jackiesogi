@@ -3,11 +3,7 @@ Hi! I'm Jackie, a passionate student from National Taiwan University of Science 
 
 ## 🌟 Recent Side Project: PairUP
 
-<a href="https://jackiesogi.com/res/pairup.html" target="_blank">View the Slides</a>
-
-<a href="https://jackiesogi.com/res/pairup.html" target="_blank">
-  <img src="https://jackiesogi.com/img/pairup-preview.png" alt="PairUP Project Preview">
-</a>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGYJsoDFB8&#x2F;s7TiByAcKbkWm56fn_MuBQ&#x2F;view?utm_content=DAGYJsoDFB8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">PairUP專案介紹</a>
 
 ## 📚 Latest Blog Posts
 
